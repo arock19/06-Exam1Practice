@@ -346,7 +346,7 @@ def print_summary_of_test_results(test_results):
     testing_helper.print_summary_of_test_results(test_results)
 
 
-# To allow color-coding the output to the console:
+# To allow color-coding the output to the console
 USE_COLORING = True  # Change to False to revert to OLD style coloring
 
 testing_helper.USE_COLORING = USE_COLORING
